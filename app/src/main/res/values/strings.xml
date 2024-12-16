@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">MyBank</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="main_job">Основной экран работы мобильного банка</string>
+    <string name="entrance">Вход</string>
+    <string name="pass">Пароль</string>
+    <string name="enter">Зарегистрироваться</string>
+    <string name="login">Логин</string>
+    <string name="log_in">Войти</string>
+    <string name="registr">Регистрация</string>
+</resources>
